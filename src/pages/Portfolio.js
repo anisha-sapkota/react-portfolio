@@ -15,6 +15,18 @@ const cards = [
     githubUrl: "https://github.com/anisha-sapkota/work-day-scheduler",
   },
   {
+    title: "Weather dashboard",
+    description: "Weather dashboard application created using OpenWeather API.",
+    liveUrl: "https://anisha-sapkota.github.io/weather-dashboard/",
+    githubUrl: "https://github.com/anisha-sapkota/weather-dashboard",
+  },
+  {
+    title: "JavaScript quiz",
+    description: "Javascript fundamentals quiz game.",
+    liveUrl: "https://anisha-sapkota.github.io/javascript-fundamentals-quiz/",
+    githubUrl: "https://github.com/anisha-sapkota/javascript-fundamentals-quiz",
+  },
+  {
     title: "Employee tracker",
     description: "Nodejs application to manage company's employee database.",
     liveUrl: "https://watch.screencastify.com/v/ckwdFMT05DYO7Gr0KSdk",
