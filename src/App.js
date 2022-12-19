@@ -1,25 +1,25 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Footer from "./layouts/Footer";
 import Header from "./layouts/Header";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="app">
         <Header />
         <Routes>
-          <Route path="/" element={<About />} />
+          <Route index element={<About />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/resume" element={<Resume />} />
         </Routes>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

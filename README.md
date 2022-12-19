@@ -42,6 +42,7 @@ Third-party libraries used:
 
 - <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-download>
 - <https://reactrouter.com/en/main/router-components/browser-router>
+- <https://reactrouter.com/en/main/router-components/hash-router>
 - <https://reactrouter.com/en/main/components/nav-link>
 
 ## License
