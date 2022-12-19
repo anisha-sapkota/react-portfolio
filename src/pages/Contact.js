@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <div className="container mx-auto my-2 max-w-7xl px-2 sm:px-6 lg:px-8">
-      <h2 className="text-4xl mb-2">Contact</h2>
+      <h2 className="text-4xl mb-2 font-bold">Contact</h2>
       <form className="max-w-2xl">
         <div class="mb-6">
           <label
