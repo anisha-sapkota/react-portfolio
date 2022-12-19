@@ -1,6 +1,6 @@
 # react-portfolio
 
-My web portfolio creating using React.
+My web portfolio created using React.
 
 ## Installation
 
@@ -30,12 +30,19 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+## Credits
+
+Third-party libraries used:
+
+- React: <https://reactjs.org/>
+- React Router: <https://reactrouter.com/en/main>
+- Tailwind CSS: <https://tailwindcss.com/>
+
 ## Helpful resources
 
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-download
-- https://reactrouter.com/en/main/router-components/browser-router
-- https://reactrouter.com/en/main/components/nav-link
-
+- <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-download>
+- <https://reactrouter.com/en/main/router-components/browser-router>
+- <https://reactrouter.com/en/main/components/nav-link>
 
 ## License
 
