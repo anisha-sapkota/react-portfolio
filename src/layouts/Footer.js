@@ -1,5 +1,6 @@
 import { GoMarkGithub } from "react-icons/go";
 
+// function for Footer component
 export default function Footer() {
   return (
     <div className="footer mx-auto w-full bg-gray-800">

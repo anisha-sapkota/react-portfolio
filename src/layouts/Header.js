@@ -2,6 +2,7 @@ import { Disclosure } from "@headlessui/react";
 import { MdClose, MdMenu } from "react-icons/md";
 import { NavLink } from "react-router-dom";
 
+// navigation links name and href
 const navigation = [
   { name: "About Me", href: "/" },
   { name: "Portfolio", href: "/portfolio" },
@@ -13,6 +14,7 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
+// function for header component
 export default function Header() {
   return (
     <Disclosure as="nav" className="bg-gray-800">

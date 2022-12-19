@@ -25,7 +25,7 @@ export default function About() {
       <p>
         Apart from coding, I love reading, travelling and writing journal. If I
         had to describe myself in few words, it would be - family person and
-        photography enthusiast.
+        photography enthusiastic.
       </p>
     </div>
   );
