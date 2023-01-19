@@ -39,6 +39,12 @@ const cards = [
     liveUrl: "https://watch.screencastify.com/v/26W6vF37ZrkoI4gRCa5H",
     githubUrl: "https://github.com/anisha-sapkota/ecommerce-backend",
   },
+  {
+    title: "Bootcamp Bar",
+    description: "Group project using MERN stack.",
+    liveUrl: "https://bootcamp-bar.herokuapp.com/",
+    githubUrl: "https://github.com/anisha-sapkota/bootcamp-bar",
+  },
 ];
 
 export default function Portfolio() {
